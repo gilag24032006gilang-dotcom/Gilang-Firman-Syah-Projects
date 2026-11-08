@@ -8,7 +8,7 @@ Shrink down to the size of plankton. Drift with glass-shelled diatoms by day,
 then swim through living light at night.
 
 ## ▶️ Play
-**Live version:** https://Gilang Firman Syah.github.io/micro-ocean-dive/
+**Live version:** https://gilag24032006gilang.github.io/micro-ocean-dive/
 
 Or download `index.html` and open it in any modern browser.
 
